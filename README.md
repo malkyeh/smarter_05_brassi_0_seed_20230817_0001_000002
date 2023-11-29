@@ -1,2 +1,2 @@
-# smarter_05_brassi_0_seed_20230817_0001_000002
-十字花科種子影像資料集 Brassicaceae Seed image dataset
+# 十字花科種子影像資料集 Brassicaceae Seed image dataset
+此資料集包含彰化富田育苗場提供之228甘藍、初秋甘藍、新28包心白菜之種子之影像，以十字花科種子自動選別機台拍攝。
